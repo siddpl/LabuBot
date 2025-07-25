@@ -1,1 +1,2 @@
+Welcome to LabuBot, a web scraper using data engineering for information collection, python logic for real time stock updates and optiziation and json parsing, and cryptography as well as local domain hosting for CAPTCHA/detection avoidance. 
 # LabuBot
